@@ -24,3 +24,7 @@ Ways to stand out of the crowd: if you managed to make all features above in 4 h
 * Basic unit tests
 * Better game stats UI (game time, number of moves, victory banners etc.)
 * King checkers mechanics (when a checker hits the last row and gets an ability to move backwards)
+
+# Start the App
+
+- npm start
