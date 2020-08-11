@@ -13,7 +13,9 @@ The goal of this exercise is to write a simple checkers game app, preferably usi
 * Make sure that the app is stable across major browsers
  
 The whole app should take less than 4 hours to complete. The primary areas to focus are code readability, and overall user experience. You may use any state management approach on your choice. Please make UI as simple as possible, try to minimize amount of external dependencies in your app.
- 
+
+# Added Advantage
+
 Ways to stand out of the crowd: if you managed to make all features above in 4 hours, you may implement something from this list and it would be considered as an advantage:
  
 * Basic AI (making moves that are not completely random)
